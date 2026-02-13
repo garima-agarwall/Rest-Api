@@ -1,0 +1,3 @@
+usersRoutes stack: [ '/signup', '/login' ]
+eventsRoutes stack: [ '/', '/', '/:id', '/:id', '/:id' ]
+Server running on port 3000
